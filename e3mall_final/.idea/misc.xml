@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/e3-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-cart/e3-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-content/e3-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-manager/e3-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-order/e3-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-search/e3-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-sso/e3-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-common/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-content/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-search/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-sso-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-order/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-order-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/e3-common">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://laptop-o3l6uf68:8443/svn/e3mallSVN/e3-common" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/e3-manager">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://laptop-o3l6uf68:8443/svn/e3mallSVN/e3-manager" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/e3-parent">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://laptop-o3l6uf68:8443/svn/e3mallSVN/e3-parent" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
