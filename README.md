@@ -1,5 +1,7 @@
-# ssm_eMall
-java 基于ssm的电子商城系统
+
+# 基于ssm的电子商务系统
 ------
-1. 基于maven架构
-2. springmvc spring mybatis互联网轻量级框架
+1. soa架构 web服务调用service服务 service调用dao服务
+2. 基于maven 便于分布式管理
+3. 基于git的版本管理
+4. dubbo 服务调用管理，实现系统之间的通信。
