@@ -22,14 +22,19 @@
 
 <h3 id="1">dubbo服务调用管理，实现系统之间的通信</h3>
 服务提供者:
-`<dubbo:service interface="cn.e3mall.cart.service.CartService" ref="cartServiceImpl"  timeout="600000"/> `
+
+    <dubbo:service interface="cn.e3mall.cart.service.CartService" ref="cartServiceImpl"  timeout="600000"/> 
+    
 服务消费者:
-` <dubbo:reference interface="cn.e3mall.cart.service.CartService" id="cartService" />`
+
+    <dubbo:reference interface="cn.e3mall.cart.service.CartService" id="cartService" />
 <h3 id="2">activeMQ消息队列的使用</h3>
 生产者发送信息:
-` jmsTemplate.send(topicDestination, new MessageCreator() {/*发送的信息*/});`
+
+    jmsTemplate.send(topicDestination, new MessageCreator() {/*发送的信息*/});
 首先配置好监听器：
-` public class ItemAddListener implements MessageListener //监听发送过来的信息`
+
+    public class ItemAddListener implements MessageListener //监听发送过来的信息
 消费者:
 
     <bean class="org.springframework.jms.listener.DefaultMessageListenerContainer">
