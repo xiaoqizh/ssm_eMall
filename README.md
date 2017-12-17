@@ -1,6 +1,7 @@
-## 基于ssm的电子商务系统隘^_^
+## 基于ssm的电子商务系统
 ------
 > 有什么问题可以在 [小奇的论坛](http://bbs.littlepanda.top/forum.php) 或者[小奇的个人博客](http://www.littlepanda.top/)交流
+>  以后会分享SpringBoot,SpringCloud的学习方案，同时还会发布基于ssm的BOS系统，ERP系统等.敬请关注
 1. **soa架构 web服务调用service服务 service调用dao服务**
 2. **基于easyUI的后台系统的搭建**
 3. **maven搭建工程，便于分布式管理**
