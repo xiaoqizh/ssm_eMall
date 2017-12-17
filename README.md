@@ -15,4 +15,4 @@
 13. **sso单点登陆系统，避免tomcat集群seesion共享带来的集群数量限制问题**
 14. **基于redis的购物车系统**
 -------
-有什么问题可以在论坛上留言 [小奇的论坛](http://bbs.littlepanda.top/forum.php) bbs.littlepanda.top
+有什么问题可以在论坛上留言 [小奇的论坛](http://bbs.littlepanda.top/forum.php) 或者[小奇的个人博客](http://www.littlepanda.top/)交流
